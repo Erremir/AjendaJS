@@ -63,12 +63,12 @@ body{
     color: white;
 }
 
-.listado-tareas{
+.listado-contactos{
     display: flex;
     flex-direction: column;
 }
 
-.tarea{
+.contacto{
     display: flex;
     flex-direction: row;
     justify-content: space-between;
